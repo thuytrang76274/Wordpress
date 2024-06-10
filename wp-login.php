@@ -7,7 +7,7 @@
  *
  * @package WordPress
  */
-//test cicd
+//test cicd v2
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require __DIR__ . '/wp-load.php';
 
