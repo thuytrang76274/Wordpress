@@ -7,7 +7,7 @@
  *
  * @package WordPress
  */
-//phiếu bé ngu
+//phiếu bé ngoan
 /** Make sure that the WordPress bootstrap has run before continuing. */
 require __DIR__ . '/wp-load.php';
 
