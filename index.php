@@ -5,7 +5,7 @@
  *
  * @package WordPress
  */
-
+//Thuỳ Trangg
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
