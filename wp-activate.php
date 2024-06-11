@@ -5,6 +5,7 @@
  *
  * @package WordPress
  */
+//thay đổi test CI/CD
 
 define( 'WP_INSTALLING', true );
 
