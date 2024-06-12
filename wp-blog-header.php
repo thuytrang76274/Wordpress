@@ -4,7 +4,7 @@
  *
  * @package WordPress
  */
-//test cicd 3
+//thi chuyên đề
 if ( ! isset( $wp_did_header ) ) {
 
 	$wp_did_header = true;
